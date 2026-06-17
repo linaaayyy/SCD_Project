@@ -1,3 +1,4 @@
 EXPENSE,500.0,food,biryani,2026-06-16
 EXPENSE,800.0,clothing,hijjab,2026-06-16
 INCOME,2000.0,money,baba ne diye,2026-06-16
+EXPENSE,1000.0,drink,coffee,2026-06-16
